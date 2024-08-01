@@ -23,7 +23,7 @@ Este proyecto incluye un bot construido utilizando la API de OpenAI y otros serv
 
 ### 5. [Proyecto final]()
 
-..........................
+.......................... Aun en desarrollo
 
 ## Exámenes y Cursos
 

@@ -21,9 +21,9 @@ Este repositorio contiene prácticas sobre el uso de embeddings en modelos de le
 
 Este proyecto incluye un bot construido utilizando la API de OpenAI y otros servicios. Se ha subido a GitHub y se ha agregado la documentación necesaria para su uso. El bot es capaz de realizar diversas tareas automatizadas, incluyendo la respuesta a preguntas y la ejecución de comandos personalizados.
 
-### 5. [Proyecto final]()
+### 5. [Proyecto final](https://github.com/Th3Mayar/artificial_intelligence/blob/main/project_final.md)
 
-.......................... Aun en desarrollo
+Este proyecto tiene como objetivo desarrollar un sistema de búsqueda semántica utilizando embeddings y técnicas de reducción de dimensionalidad. El sistema permite a los usuarios buscar entradas relacionadas en el dataset melb_data.csv basándose en la similitud semántica del contenido.
 
 ## Exámenes y Cursos
 

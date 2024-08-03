@@ -2,6 +2,8 @@
 
 # Sistema de Búsqueda Semántica para el Dataset `melb_data.csv`
 
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Th3Mayar/artificial_intelligence/blob/main/Semantic_Search_System_SA_20220115.ipynb "Click para acceder al collab")
+
 ## Introducción
 
 Este proyecto tiene como objetivo desarrollar un sistema de búsqueda semántica utilizando embeddings y técnicas de reducción de dimensionalidad. El sistema permite a los usuarios buscar entradas relacionadas en el dataset `melb_data.csv` basándose en la similitud semántica del contenido.
